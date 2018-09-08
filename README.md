@@ -104,3 +104,10 @@ Fxsound 音频增强谁用谁知道啊
 ShareX | github star 8k+ 地表最强截图神器、图床神器、gif 录屏神器、秒杀所有截图软件包括但不限于pickpick+sinapaste+QQ截图+所有图床
 
 Ditto | 地表最强开源剪贴板。
+
+
+# 致谢：
+
+> BGAIssueBlog
+
+> https://github.com/bingoogolapple/BGAIssueBlog
