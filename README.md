@@ -1,6 +1,8 @@
 # 极客青年博客
 
-基于github pages+issues + VUE 2.0 框架构建的轻量级静态博客系统：https://geekyouth.github.io
+基于github pages+issues + VUE 2.0 框架构建的轻量级静态博客系统：
+
+https://geekyouth.github.io  |  https://geekyouth.top
 
 issue 访问：https://github.com/geekyouth/blogs/issues
 
