@@ -50,7 +50,7 @@ https://www.jianshu.com/p/7c2cce028d29
 
 本项目基于原作者【https://github.com/bingoogolapple/BGAIssueBlog】 构建，感谢bingoogolapple 开源！！！
 
-#如何部署到github pages？
+# 如何部署到github pages？
 
 https://github.com/bingoogolapple/BGAIssueBlog
 
@@ -140,7 +140,7 @@ Ditto | 地表最强开源剪贴板。
 
 # 致谢：
 
-> BGAIssueBlog
+> 作者：[bingoogolapple](https://github.com/bingoogolapple)
 
 > https://github.com/bingoogolapple/BGAIssueBlog
 
