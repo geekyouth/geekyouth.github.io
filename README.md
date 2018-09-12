@@ -73,12 +73,8 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 
 ------
 
-![1536545365145](http://p7fcrq2e4.bkt.clouddn.com/201818101009-20180910_100918.png)
-
-
-
-![](http://p7fcrq2e4.bkt.clouddn.com/201818101015-20180910_101509.png)
-
+![](http://p7fcrq2e4.bkt.clouddn.com/201818121052-explorer20180912_105210.png)
+![](http://p7fcrq2e4.bkt.clouddn.com/201818121053-chrome20180912_105314.png)
 
 
 # 博客分类：
@@ -139,7 +135,7 @@ Wgestures |全局鼠标手势
 
 Fxsound 音频增强谁用谁知道啊
 
-天若OCR识别	 |再也没有比这个更方便的图片文字识别工具
+天若OCR识别  |再也没有比这个更方便的图片文字识别工具
 
 ShareX | github star 8k+ 地表最强截图神器、图床神器、gif 录屏神器、秒杀所有截图软件包括但不限于pickpick+sinapaste+QQ截图+所有图床
 
