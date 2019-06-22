@@ -103,11 +103,10 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 
 💓💓💓
 
-<div align=center>关于我：429463267@qq.com</div>
+<div align=center>关于我：</div>
 
-<div align=center><img width="150" height="150" src="https://user-images.githubusercontent.com/12899262/45256802-4958ee80-b3ce-11e8-8790-d594f6bb26b1.png"/></div>
 
-JAVA 开发工程师，掌握 JAVA、数据库、Linux、git、maven等方向的知识；
+JAVA 开发工程师，掌握 JAVA、爬虫、抓包、数据库、Linux、git、maven等方向的知识；
 
 了解前端主流框架AdminLTE、Bootstrap、VUE等，对html css js jsp 基础知识略懂一二；
 
@@ -124,8 +123,6 @@ Java Web开发、分布式架构研究，大数据是未来研究方向；
 💓💓💓
 
 一直后台运行的几个生产力工具、神器推荐给你：
-
-<div align=center><img  src="http://p7fcrq2e4.bkt.clouddn.com/201818082339-explorer20180908_233927.png"/></div>
 
 Listary |快捷启动和搜索
 
