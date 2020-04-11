@@ -56,8 +56,13 @@ issue 访问：<https://github.com/geekyouth/blogs/issues>
 
 本项目基于原作者 [https://github.com/bingoogolapple/BGAIssueBlog] 构建，感谢bingoogolapple 开源！！！
 
+---
+
 ## 免责声明：
+
 本博客是为了便于本人存档学习笔记的，如果你有看不懂的内容什么也别问，问了我也不会改的🤣。因为大部分内容是写给我自己看的，请勿介意🙄😏😗。
+
+---
 
 ## 如何部署到github pages？
 
@@ -93,8 +98,8 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 大数据开发工程师，常用技术栈：
 
 - HTML、CSS、JavaScript
-- JAVA、Scala、Shell、Sql
-- 爬虫、Jsoup、抓包、数据库Mysql/Redis/Elasticsearch/MongoDB、中间件Kafka/ZK、Linux、git、maven、SpringBoot、SSM
+- JAVA、Scala、Shell、SQL
+- 爬虫、Jsoup、抓包、数据库Mysql/Redis/Elasticsearch/MongoDB、中间件Kafka/ZK、Linux、Git、Maven、SpringBoot、SSM
 - Centos6/7 集群部署运维、Docker/Compose
 - Flume、Hadoop、Hive、Impla、HBase/Phoenix、Spark、Flink、CDH、Sqoop、Azkaban、Oozie、Kylin、Kettle...
 
@@ -105,7 +110,7 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 
 ## 专注于：
 
-大数据开发。
+大数据开发、JAVA 微服务。
 
 ---
 
@@ -126,7 +131,7 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 - Fxsound |音频增强谁用谁知道啊
 - 天若OCR识别 |再也没有比这个更方便的图片文字识别工具
 - ShareX |github star 8k+ 地表最强截图神器、图床神器、gif 录屏神器、秒杀所有截图软件包括但不限于pickpick+sinapaste+QQ截图+所有图床
-- Ditto |地表最强开源剪贴板，kafka 又臭又长的命令直接搜历史剪贴板
+- Ditto |地表最强开源剪贴板，kafka 又臭又长的命令全靠他了
 
 ------
 
@@ -134,5 +139,5 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 
 # 致谢：
 
-> 作者：[bingoogolapple](https://github.com/bingoogolapple)
+> 作者：[bingoogolapple](https://github.com/bingoogolapple)  
  https://github.com/bingoogolapple/BGAIssueBlog
