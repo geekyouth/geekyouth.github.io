@@ -11,19 +11,20 @@
         <img src="https://img.shields.io/github/stars/geekyouth/geekyouth.github.io.svg?style=social" /></a>
 </p>
 
-👣极客青年博客😘，基于github pages+issues + VUE 2.0 框架构建的轻量级静态博客系统💎 https://geekyouth.github.io
+👣极客青年博客😘，基于github pages+issues + VUE 2.0 框架构建的轻量级静态博客系统💎
+
+在线体验 <https://geekyouth.github.io> | <https://java666.cn>
 
 issue 访问：<https://github.com/geekyouth/blogs/issues>
 
+------
 
-
-![](http://p7fcrq2e4.bkt.clouddn.com/201818101007-chrome20180910_100733.png)
-
+![](static/img/view.png)
 ------
 
 💓💓💓
 
-**简介：**
+## 简介：
 
 早些年折腾过很多博客和网站，包括但不限于：
 
@@ -43,80 +44,75 @@ issue 访问：<https://github.com/geekyouth/blogs/issues>
 
 ------
 
-这些东西要么需要大量的时间调整主题模板和seo优化，要么需要复杂的排版和上传步骤以及高昂的时间、人力维护成本，总之就是超级耗时间，现如今最贵重的还是时间了，所以惜时如金的我把目光转向了更加轻量化的全新博客系统。
+这些东西要么需要大量的时间调整主题模板和seo优化，要么需要复杂的排版和上传步骤以及高昂的时间、人力维护成本，总之就是超级耗时间，如今对我来说最贵重的就是时间了。搜遍了 Google 发现有个全栈开发大神 “Kenshin Wang”【简阅 chrome 开源插件的作者】的一篇文章：
 
-直到后面发现有个全栈开发大神 “Kenshin Wang”【简阅 chrome 开源插件的作者】的一篇文章：
+为什么使用 Github issues 作为我的新博客？| http://kenshin.wang/blog/#/posts/1
 
-为什么使用 Github issues 作为我的新博客？
+看完之后茅塞顿开恍然大悟，于是顺藤摸瓜，看到这篇：
 
-http://kenshin.wang/blog/#/posts/1
+如何用Github Issues写技术博客？| https://www.jianshu.com/p/7c2cce028d29
 
-看完之后茅塞顿开恍然大悟，于是顺藤摸瓜搜谷歌，看到这篇：
+我虎躯一震，发觉直接用Github的 Issues + Projects，写技术博客能够更加专心内容本身，而不是去关心并不那么重要的UI 和精美特效杀马特非主流的粒子振动，于是后面就打算在github issues <https://github.com/geekyouth/geekyouth.github.io/issues> 更新博客。
 
-如何用Github Issues写技术博客？
+本项目基于原作者 [https://github.com/bingoogolapple/BGAIssueBlog] 构建，感谢bingoogolapple 开源！！！
 
-https://www.jianshu.com/p/7c2cce028d29
+## 免责声明：
+本博客是为了便于本人存档学习笔记的，如果你有看不懂的内容什么也别问，问了我也不会改的🤣。因为大部分内容是写给我自己看的，请勿介意🙄😏😗。
 
-我虎躯一震，发觉直接用Github的 Issues + Projects，写技术博客能够更加专心内容本身，而不是去关心并不那么重要的UI 和精美特效杀马特非主流的粒子振动，于是后面就打算在github issue [https://github.com/geekyouth/geekyouth.github.io/issues] 更新博客。
-
-本项目基于原作者【https://github.com/bingoogolapple/BGAIssueBlog】 构建，感谢bingoogolapple 开源！！！
-
-# 如何部署到github pages？
+## 如何部署到github pages？
 
 https://github.com/bingoogolapple/BGAIssueBlog
 
-# 我遇到的坑：
+## 我遇到的坑：
 
 npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望可以帮到你；
 
 其次，github 项目名称必须严格遵守格式 “你的账户id.github.io” ，而且github pages 必须部署在master 分支，之后一切水到渠成。
 
-------
+---
 
-![](http://p7fcrq2e4.bkt.clouddn.com/201818121052-explorer20180912_105210.png)
-![](http://p7fcrq2e4.bkt.clouddn.com/201818121053-chrome20180912_105314.png)
+## 博客内容分类：
 
-
-# 博客分类：
-
-01-Linux 系列
-
-02-数据库系列
-
-03-JAVA 基础系列
-
-04-JAVA Web 系列
-
-05-分布式架构系列
-
-06-大数据系列
-
-07-Spring 系列
-
-08-开发工具系列
-
-09-综合系列
-
-10-待整理
+- Linux/Shell/Docker
+- 数据库/中间件/运维/监控
+- JAVA/Scala
+- SpringBoot 全家桶
+- 分布式架构系统
+- 大数据生态 Hadoop+Spark+Kafka+Hive+Flink+CDH
+- 开发工具 JB 全家桶
+- 综合
+- 待整理
 
 ------
 
 💓💓💓
 
-<div align=center>关于我：</div>
+## 关于我：
 
 
-JAVA 开发工程师，掌握 JAVA、爬虫、抓包、数据库、Linux、git、maven等方向的知识；
+大数据开发工程师，常用技术栈：
 
-了解前端主流框架AdminLTE、Bootstrap、VUE等，对html css js jsp 基础知识略懂一二；
+- HTML、CSS、JavaScript
+- JAVA、Scala、Shell、Sql
+- 爬虫、Jsoup、抓包、数据库Mysql/Redis/Elasticsearch/MongoDB、中间件Kafka/ZK、Linux、git、maven、SpringBoot、SSM
+- Centos6/7 集群部署运维、Docker/Compose
+- Flume、Hadoop、Hive、Impla、HBase/Phoenix、Spark、Flink、CDH、Sqoop、Azkaban、Oozie、Kylin、Kettle...
 
-专注于：
+---
+只要学不死，就往死里学...
 
-Java Web开发、分布式架构研究，大数据是未来研究方向；
+---
 
-业余爱好：
+## 专注于：
 
-撸代码，看科技资讯，喜欢折腾各种生产力工具【电脑拆装换系统、路由器刷机、最喜欢工作和赚钱】。
+大数据开发。
+
+---
+
+
+## 业余爱好：
+
+撸代码，逛 IT 社区（Github、v2ex、头条科技板块、各种 IT 技术公号），压榨树莓派，喜欢折腾各种生产力工具【电脑拆装换软硬件、路由器刷机 DIY、最喜欢工作和赚钱】，痴迷于技术。
 
 ------
 
@@ -124,19 +120,13 @@ Java Web开发、分布式架构研究，大数据是未来研究方向；
 
 一直后台运行的几个生产力工具、神器推荐给你：
 
-Listary |快捷启动和搜索
-
-Everything 专业及本地搜索工具
-
-Wgestures |全局鼠标手势
-
-Fxsound 音频增强谁用谁知道啊
-
-天若OCR识别  |再也没有比这个更方便的图片文字识别工具
-
-ShareX | github star 8k+ 地表最强截图神器、图床神器、gif 录屏神器、秒杀所有截图软件包括但不限于pickpick+sinapaste+QQ截图+所有图床
-
-Ditto | 地表最强开源剪贴板。
+- Listary |快捷启动和搜索，一键搜 mvn|Github|Docker 仓库
+- Everything |专业级本地搜索工具，支持高级筛选
+- Wgestures |全局鼠标手势，懒人福音
+- Fxsound |音频增强谁用谁知道啊
+- 天若OCR识别 |再也没有比这个更方便的图片文字识别工具
+- ShareX |github star 8k+ 地表最强截图神器、图床神器、gif 录屏神器、秒杀所有截图软件包括但不限于pickpick+sinapaste+QQ截图+所有图床
+- Ditto |地表最强开源剪贴板，kafka 又臭又长的命令直接搜历史剪贴板
 
 ------
 
@@ -145,6 +135,4 @@ Ditto | 地表最强开源剪贴板。
 # 致谢：
 
 > 作者：[bingoogolapple](https://github.com/bingoogolapple)
-
-> https://github.com/bingoogolapple/BGAIssueBlog
-
+ https://github.com/bingoogolapple/BGAIssueBlog
