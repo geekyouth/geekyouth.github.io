@@ -135,9 +135,14 @@ npm install 过程并不顺利，于是改用 cnpm install 就好使了，希望
 
 ------
 
+## 更新日志
+- v2 ：修改 主页左上角的站外链接：<https://up.java666.cn/>
+
+---
+
 💓💓💓
 
-# 致谢：
+## 致谢：
 
 > 作者：[bingoogolapple](https://github.com/bingoogolapple)  
  https://github.com/bingoogolapple/BGAIssueBlog
