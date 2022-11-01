@@ -54,7 +54,7 @@ issue 访问：<https://github.com/geekyouth/blogs/issues>
 
 我虎躯一震，发觉直接用Github的 Issues + Projects，写技术博客能够更加专心内容本身，而不是去关心并不那么重要的UI 和精美特效杀马特非主流的粒子振动，于是后面就打算在github issues <https://github.com/geekyouth/geekyouth.github.io/issues> 更新博客。
 
-本项目基于原作者 [https://github.com/bingoogolapple/BGAIssueBlog] 构建，感谢bingoogolapple 开源！！！
+本项目基于原作者 https://github.com/bingoogolapple/BGAIssueBlog 构建，感谢bingoogolapple 开源！！！
 
 ---
 
