@@ -178,7 +178,7 @@ webpackJsonp([5], {
           url: "https://github.com/geekyouth/geekyouth.github.io"
         }, {
           img: "static/img/status.ico",
-          url: "https://java666.cn/uptime-status/"
+          url: "https://up.java666.cn"
         }]
       },
       u = (r = {}, a()(r, "SET_GITHUB_USER", function (t, e) {
